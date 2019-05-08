@@ -1,5 +1,5 @@
 # Forward Inverse Kinematics
-This project was meant as and end of year project of 11th grade in highschool.
+This project was meant as an end of year project of 11th grade in highschool.
 
 #### - Project Status: [Completed]
 ## Project Objective
@@ -23,3 +23,6 @@ If you want to compile and play with the code you will need SFML 2.3 or above.
 2. Free string
 3. Four segment pivot arm
 4. Playing ball
+
+## Completion Date
+2016, May 6
