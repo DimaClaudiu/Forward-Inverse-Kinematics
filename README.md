@@ -1,5 +1,5 @@
 # Forward Inverse Kinematics
-This project was meant as an end of year project of 11th grade in highschool.
+This project was meant as a stepping stone to OOP and C++.
 
 #### - Project Status: [Completed]
 ## Project Objective
