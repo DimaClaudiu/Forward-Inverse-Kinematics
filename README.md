@@ -14,7 +14,7 @@ The project simulates forward and inverse kinematics behaviour, showcasing 4 bas
 By working on this I deepened my understanding of C++ and OOP, as well as math.
 
 #### Examples
-![](https://im5.ezgif.com/tmp/ezgif-5-ae327219890f.gif) ![](https://im5.ezgif.com/tmp/ezgif-5-d0ac3bc30c4a.gif) ![](https://im5.ezgif.com/tmp/ezgif-5-b03e468fe478.gif) ![](https://im5.ezgif.com/tmp/ezgif-5-ac686a0b3558.gif)
+![](https://i.imgur.com/VUHt19R.gif) ![](https://i.imgur.com/V5Oa660.gif) ![](https://i.imgur.com/ttnsjm3.gif) ![](https://i.imgur.com/XC5G2Wj.gif)
 
 ## Usage
 If you want to compile and play with the code you will need SFML 2.3 or above.
